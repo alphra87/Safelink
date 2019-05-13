@@ -122,9 +122,11 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://alphra87.blogspot.com/p/free-domain-and-hosting-regr.html",
-      "https://alphra87.blogspot.com/p/mesothelioma-law-firm-all-you-need-to.html",
-      "https://alphra87.blogspot.com/p/donate-your-car-sacramento.html",
+      "https://liriklagumerakyat.blogspot.com/2019/02/arti-pansos-di-instagram-begini.html",
+      "https://liriklagumerakyat.blogspot.com/2019/03/laplace-m-guardian-sistem-guardian-di.html",
+      "https://liriklagumerakyat.blogspot.com/2019/03/free-fire-battlegrounds-hack.html",
+      "https://liriklagumerakyat.blogspot.com/2019/03/free-fire-battlegrounds-hack.html",
+      "https://liriklagumerakyat.blogspot.com/2019/03/cara-cepat-screenshot-oppo-f11-pro.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
